@@ -10,10 +10,12 @@ body{
 .card{
     width: 90%;
     max-width: 430px;
-    background-image: url(/image/weather-forecast-app-3d-illustration-of-icons-depicting-sun-and-clouds-ideal-for-design-web-with-blue-background_9761677.jpg);
+    background-image: url(image/jjj.jpg);
     color: #fff;
     background-size:cover;
     background-repeat: no-repeat;
+    background-position:cover;
+    object-fit: cover;
     margin: 100px auto 0;
     border-radius: 20px;
     padding: 40px 35px;
